@@ -1,0 +1,12 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+
+    "[c]": {
+      "editor.defaultFormatter": "demiaochen.clang-format-indent-4",
+      "editor.formatOnSave": true,
+      "editor.formatOnPaste": true
+    
+    }
+}
+  
